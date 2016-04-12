@@ -1,0 +1,22 @@
+"## 基本設定 
+syntax on
+filetype indent on
+set nocompatible
+set undofile
+set textwidth=0
+set autoindent
+set smartindent
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+set autoread
+set noswapfile
+set nobackup
+set backspace=indent,eol,start
+set ruler
+set number
+set vb t_vb=
+set showcmd
+set showmode
+set clipboard=unnamed,unnamedplus
+let g:html_indent_inctags = "html,body,head,tbody"
